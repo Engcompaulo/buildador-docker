@@ -1,0 +1,5 @@
+projetos:
+  - nome: home-nodered
+    repo: git@github.com:Engcompaulo/home-nodered.git
+  - nome: treinamento_docker
+    repo: git@github.com:Engcompaulo/treinamento_docker.git
